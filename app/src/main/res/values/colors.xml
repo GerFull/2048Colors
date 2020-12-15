@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_white">#f9f6f2</color>
+    <color name="background">#212121</color>
+    <color name="icon_background">#e8ba2e</color>
+    <color name="primaryDark">#424242</color>
+    <color name="ic_launcher_background">#ffffff</color>
+
+    <color name="cell_2">#D32F2F</color>
+    <color name="cell_4">#FB8C00</color>
+    <color name="cell_8">#FDD835</color>
+    <color name="cell_16">#43A047</color>
+    <color name="cell_32">#00897B</color>
+    <color name="cell_64">#039BE5</color>
+    <color name="cell_128">#3949AB</color>
+    <color name="cell_256">#7E57C2</color>
+    <color name="cell_512">#8E24AA</color>
+    <color name="cell_1024">#E91E63</color>
+    <color name="cell_2048">#FF80AB</color>
+</resources>

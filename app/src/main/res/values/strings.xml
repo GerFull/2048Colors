@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="reset">Сброс</string>
+    <string name="continue_game">Отмена</string>
+    <string name="reset_dialog_title">Начать заново?</string>
+    <string name="reset_dialog_message">Вы уверены, что хотите начать заново?</string>
+    <string name="text_hint">Свайпайте, чтобы перемещать клетки.\nКогда две клетки одинакового цвета соединяются - получается новый.</string>
+    <string name="win_dialog_title">Победа!</string>
+    <string name="win_dialog_message">Хотите сыграть еще раз?</string>
+    <string name="main_menu">Главное меню</string>
+    <string name="play_again">Заново</string>
+    <string name="lose_dialog_title">Поражение</string>
+    <string name="lose_dialog_message">Сыграть еще раз?</string>
+    <string name="highscore">РЕКОРД</string>
+    <string name="score">ОЧКИ</string>
+    <string name="app_name">2048 Colors</string>
+    <string name="easy">Легко</string>
+    <string name="_4x4">4x4</string>
+    <string name="normal">Нормально</string>
+    <string name="_5x5">5x5</string>
+    <string name="hard">Сложно</string>
+    <string name="_6x6">6x6</string>
+    <string name="hardcore">Хардкор</string>
+    <string name="_8x8">8x8</string>
+</resources>
